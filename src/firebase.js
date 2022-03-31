@@ -12,7 +12,7 @@ import { initializeApp } from 'firebase/app';
 
 const firebaseConfig = {
     apiKey: "AIzaSyBimb314mfGdCU1RGvfY5gRcIj_FahY9lI",
-    authDomain: "disney-clone-903e5.firebaseapp.com",
+    authDomain: "https://disney-plus-clone-tau-sandy.vercel.app/",
     projectId: "disney-clone-903e5",
     storageBucket: "disney-clone-903e5.appspot.com",
     messagingSenderId: "397136573834",
