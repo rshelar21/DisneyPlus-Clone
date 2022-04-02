@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployment Link
+
+https://disney-plus-clone-tau-sandy.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
